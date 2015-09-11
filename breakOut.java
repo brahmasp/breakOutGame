@@ -1,4 +1,3 @@
-package trial;
 
 import acm.program.GraphicsProgram;
 import acm.util.RandomGenerator;
